@@ -1,0 +1,1 @@
+PyQt5, PyQt5.QtSql, sys, PyQt5.QtWidgets
